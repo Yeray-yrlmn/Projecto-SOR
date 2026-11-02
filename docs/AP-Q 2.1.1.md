@@ -1,5 +1,4 @@
-# AP-Q 2.1.1.
-# Instalación y configuración del dominio
+# AP-Q 2.1.1. <br> Instalación y configuración del dominio
 
 ### Solo imagenes por petición del profesorado
 
