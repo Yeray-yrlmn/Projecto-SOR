@@ -6,12 +6,4 @@ Alumno: Yeray López Molina
 
 Curso: 2º SMX
 
-## VirtualBox
-
-Imagen maquinas virtuales:
-
-![lista-virtualbox](img/lista-vm.png)
-
-Detalles pctaller1Batoi16:
-
-![detalles-pctaller](img/dpctaller.png)
+## Servidor (srvbatoi16)
