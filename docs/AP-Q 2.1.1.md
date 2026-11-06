@@ -1,6 +1,6 @@
 # AP-Q 2.1.1. <br> Instalación y configuración del dominio
 
-### Solo imagenes por petición del profesorado <br> Hostnames acortados en algunos casos para no superar el límite de caracteres
+### Solo imagenes por petición del profesorado. <br> Hostnames acortados en algunos casos para no superar el límite de caracteres.
 
 Alumno: Yeray López Molina
 
@@ -60,7 +60,7 @@ Conectividad
 
 ### (Empiezo a usar jpg mira a ver que tal)
 
-## srvBatoi16
+## srvBatoi16:
 
 Detalles
 
@@ -86,7 +86,7 @@ Conectividad
 
 ![srv-conectividad](img/srv-conectividad.jpg)
 
-## pcprofeBatoi16
+## pcprofeBatoi16:
 
 Detalles
 
@@ -112,13 +112,13 @@ Conectividad
 
 ![pcprofe-conectividad](img/pcprofe-conectividad.jpg)
 
-## pc1aulaBatoi16
+## pc1aulaBatoi16:
 
 Detalles
 
 ![pc1aula](img/pc1aula.png)
 
-### Debian
+### Debian:
 
 Hostname
 
@@ -136,7 +136,7 @@ Conectividad
 
 ![pc1aula-conectividad](img/pc1aula-deb-conectividad.jpg)
 
-### Windows
+### Windows:
 
 Hostname
 
@@ -154,7 +154,7 @@ Conectividad
 
 ![pc1aula-win-conectividad](img/pc1aula-win-conectividad.jpg)
 
-## pcgestio1Batoi16 & pctaller1Batoi16
+## pcgestio1Batoi16 & pctaller1Batoi16:
 
 ![pcgestio1](img/pcgestio1.png)
 ![pctaller1](img/pctaller1.png)
