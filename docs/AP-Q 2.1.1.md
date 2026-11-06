@@ -1,6 +1,6 @@
 # AP-Q 2.1.1. <br> Instalación y configuración del dominio
 
-### Solo imagenes por petición del profesorado
+### Solo imagenes por petición del profesorado <br> Hostnames acortados en algunos casos para no superar el límite de caracteres
 
 Alumno: Yeray López Molina
 
