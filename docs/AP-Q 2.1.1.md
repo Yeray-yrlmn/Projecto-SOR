@@ -8,6 +8,17 @@ Curso: 2º SMX
 
 ## Esquema de la red Batoi16:
 
-![redbatoi16](img/sox-red.png)
+![red-batoi](img/sox-red.png)
 
-## Servidor (srvbatoi16)
+## Maquinas:
+
+![maquinas-batoi](img/maquinas.png)
+
+## Detalles:
+
+![srvcomm](img/srvcomm.png)
+![srv](img/srv.png)
+![pcprofe](img/pcprofe.png)
+![pc1aula](img/pc1aula.png)
+![pcgestio1](img/pcgestio1.png)
+![pctaller1](img/pctaller1.png)
