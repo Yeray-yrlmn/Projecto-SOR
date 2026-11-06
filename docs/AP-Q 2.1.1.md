@@ -14,7 +14,6 @@ Curso: 2º SMX
 
 ![maquinas-batoi](img/maquinas.png)
 
-![pc1aula](img/pc1aula.png)
 ![pcgestio1](img/pcgestio1.png)
 ![pctaller1](img/pctaller1.png)
 
@@ -95,3 +94,49 @@ Conectividad
 Detalles
 
 ![pcprofe](img/pcprofe.png)
+
+Hostname
+
+![pcprofe-hostname](img/pcprofe-hostname.jpg)
+
+Red
+
+![pcprofe-red](img/pcprofe-red.jpg)
+
+Discos
+
+![pcprofe-discos](img/pcprofe-discos.jpg)
+
+Repositorios
+
+![pcprofe-repositorios](img/pcprofe-repositorios.jpg)
+
+Conectividad
+
+![pcprofe-conectividad](img/pcprofe-conectividad.jpg)
+
+## pc1aulaBatoi16
+
+Detalles
+
+![pc1aula](img/pc1aula.png)
+
+### Debian
+
+Hostname
+
+![pc1aula-deb-hostname](img/pc1aula-deb-hostname.jpg)
+
+Red
+
+![pc1aula-deb-red](img/pc1aula-deb-red.jpg)
+
+Repositorios
+
+![pc1aula-deb-repositorios](img/pc1aula-deb-repositorios.jpg)
+
+Conectividad
+
+![pc1aula-conectividad](img/pc1aula-deb-conectividad.jpg)
+
+### Windows
