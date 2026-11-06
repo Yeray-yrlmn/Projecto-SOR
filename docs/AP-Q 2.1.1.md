@@ -14,8 +14,6 @@ Curso: 2º SMX
 
 ![maquinas-batoi](img/maquinas.png)
 
-![srv](img/srv.png)
-![pcprofe](img/pcprofe.png)
 ![pc1aula](img/pc1aula.png)
 ![pcgestio1](img/pcgestio1.png)
 ![pctaller1](img/pctaller1.png)
@@ -63,3 +61,37 @@ Firewall
 Conectividad
 
 ![srvcomm-conectividad](img/srvcomm-conectividad.png)
+
+### (Empiezo a usar jpg mira a ver que tal)
+
+## srvBatoi16
+
+Detalles
+
+![srv](img/srv.png)
+
+Hostname
+
+![srv-hostname](img/srv-hostname.jpg)
+
+Red
+
+![srv-ipconfig-all](img/srv-ipconfig-all.jpg)
+
+Firewall
+
+![srv-firewall](img/srv-firewall.jpg)
+
+Actualizaciones
+
+![srv-updates](img/srv-updates.jpg)
+
+Conectividad
+
+![srv-conectividad](img/srv-conectividad.jpg)
+
+## pcprofeBatoi16
+
+Detalles
+
+![pcprofe](img/pcprofe.png)
