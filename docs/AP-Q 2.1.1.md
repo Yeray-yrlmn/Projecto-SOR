@@ -22,18 +22,44 @@ Curso: 2º SMX
 
 ## srvcommBatoi16:
 
-### Detalles
+Detalles
 
 ![srvcomm](img/srvcomm.png)
 
-### Hostname
+Hostname
 
 ![srvcomm-hostname](img/srvcomm-hostname.png)
 
-### (ip a)
+Red
+
+(ip a)
 
 ![srvcomm-ip-a](img/srvcomm-ip-a.png)
 
-### (networkctl status)
+(networkctl status)
 
 ![srvcomm-networkctl-status](img/srvcomm-networkctl-status.png)
+
+Netplan
+
+![srvcomm-netplan](img/srvcomm-netplan.png)
+
+NAT
+
+![srvcomm-nat](img/srvcomm-nat.png)
+
+Enrutamiento
+
+![srvcomm-ip-route](img/srvcomm-ip-route.png)
+
+Discos
+
+![srvcomm-discos](img/srvcomm-discos.png)
+
+Firewall
+
+![srvcomm-ufw-status](img/srvcomm-ufw-status.png)
+
+Conectividad
+
+![srvcomm-conectividad](img/srvcomm-conectividad.png)
