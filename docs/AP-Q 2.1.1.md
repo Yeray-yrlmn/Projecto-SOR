@@ -14,9 +14,6 @@ Curso: 2º SMX
 
 ![maquinas-batoi](img/maquinas.png)
 
-![pcgestio1](img/pcgestio1.png)
-![pctaller1](img/pctaller1.png)
-
 ## srvcommBatoi16:
 
 Detalles
@@ -140,3 +137,44 @@ Conectividad
 ![pc1aula-conectividad](img/pc1aula-deb-conectividad.jpg)
 
 ### Windows
+
+Hostname
+
+![pc1aula-win-hostname](img/pc1aula-win-hostname.jpg)
+
+Red
+
+![pc1aula-win-red](img/pc1aula-win-red.jpg)
+
+Actualizaciones
+
+![pc1aula-win-updates](img/pc1aula-win-updates.jpg)
+
+Conectividad
+
+![pc1aula-win-conectividad](img/pc1aula-win-conectividad.jpg)
+
+## pcgestio1Batoi16 & pctaller1Batoi16
+
+![pcgestio1](img/pcgestio1.png)
+![pctaller1](img/pctaller1.png)
+
+Hostnames
+
+![pcgestio1-hostname](img/pcgestio1-hostname.jpg)
+![pctaller1-hostname](img/pctaller1-hostname.jpg)
+
+Red
+
+![pcgestio1-red](img/pcgestio1-red.jpg)
+![pctaller1-red](img/pctaller1-red.jpg)
+
+Actualizaciones
+
+![pcgestio1-updates](img/pcgestio1-updates.jpg)
+![pctaller1-updates](img/pctaller1-updates.jpg)
+
+Conectividad
+
+![pcgestio1-conectividad](img/pcgestio1-conectividad.jpg)
+![pctaller1-conectividad](img/pctaller1-conectividad.jpg)
