@@ -14,11 +14,26 @@ Curso: 2º SMX
 
 ![maquinas-batoi](img/maquinas.png)
 
-## Detalles:
-
-![srvcomm](img/srvcomm.png)
 ![srv](img/srv.png)
 ![pcprofe](img/pcprofe.png)
 ![pc1aula](img/pc1aula.png)
 ![pcgestio1](img/pcgestio1.png)
 ![pctaller1](img/pctaller1.png)
+
+## srvcommBatoi16:
+
+### Detalles
+
+![srvcomm](img/srvcomm.png)
+
+### Hostname
+
+![srvcomm-hostname](img/srvcomm-hostname.png)
+
+### (ip a)
+
+![srvcomm-ip-a](img/srvcomm-ip-a.png)
+
+### (networkctl status)
+
+![srvcomm-networkctl-status](img/srvcomm-networkctl-status.png)
